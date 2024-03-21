@@ -1,3 +1,0 @@
-cStat=01
-xMotivo=Conversão efetuada com sucesso.
-Nota fiscal: 000001273 Serie: 001 - ChaveNFe: 33240344599302000101550010000012731141412093
