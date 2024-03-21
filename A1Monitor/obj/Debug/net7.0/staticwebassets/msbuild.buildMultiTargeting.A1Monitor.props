@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\A1Monitor.props" />
+</Project>
